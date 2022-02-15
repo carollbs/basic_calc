@@ -10,7 +10,7 @@
     min-height: 0hv;
     display: flexbox;
     align-items: stretch;
-    justify-content: left;
+    justify-content: center;
   }
 
   .wrapper{
