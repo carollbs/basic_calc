@@ -9,7 +9,7 @@
   body{
     min-height: 0hv;
     display: flexbox;
-    align-items: stretch;
+    align-items:center;
     justify-content: center;
   }
 
